@@ -76,7 +76,7 @@ A robust authentication system built for smart business applications.
   <a href="mailto:ahmeddtamer30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ahmeddtamer">
+  <a href="https://www.linkedin.com/in/ahmed-tamer-1a5588419?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
