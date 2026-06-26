@@ -17,7 +17,6 @@
 ## About Me
 
 - Specialized in building backend systems using **ASP.NET Core**.
-- Focused on **Clean Architecture**, **SOLID principles**, and **RESTful API** design.
 - Passionate about writing maintainable, scalable code.
 - Always learning and improving my craft as a .NET developer.
 
