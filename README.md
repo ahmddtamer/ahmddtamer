@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Project
 
-### [Stratify-Auth][(https://github.com/ahmddtamer/Smart-Business-Auth)](https://github.com/Smart-Business-Advisor/Stratify-Auth)
+### [Stratify-Auth](https://github.com/Smart-Business-Advisor/Stratify-Auth)
 
 A robust authentication system built for smart business applications.
 
